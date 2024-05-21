@@ -1,0 +1,162 @@
+.badge {
+  margin-top: 5px;
+}
+
+.chart-container {
+  display: flex;
+  justify-content: center;
+  height: 660px;
+  border: none;
+  margin-top: 50px;
+}
+
+.date {
+  font-size: 15px;
+}
+
+.error-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 620px;
+  width: auto;
+  text-align: center;
+}
+
+.footer {
+  width: 100%;
+  background-color: black;
+  padding: 20px;
+  margin-top: 16px;
+}
+
+.footer-content {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+
+.footer-info {
+  gap: 0.8rem;
+  font-size: 12px;
+  color: white;
+}
+
+.footer-link {
+  color: white;
+}
+
+.footer-text {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-text-content {
+  font-size: 12px;
+  color: white;
+}
+
+.headline {
+  font-size: xx-large;
+  font-weight: 800;
+  color: black;
+  margin: 20px 0;
+}
+
+.home-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  background-color: black;
+}
+
+.input-box {
+  width: 200px;
+}
+
+.left-link {
+  display: flex;
+  align-items: center;
+}
+
+.link-style {
+  text-decoration: none;
+  color: grey;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.logo-link {
+  display: flex;
+  margin-left: 150px;
+}
+
+.nav-style {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 20px;
+}
+
+.right-link {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.search-button {
+  margin-left: 10px;
+  margin-bottom: 5px;
+  height: 30px;
+}
+
+.select-label {
+  margin-right: 10px;
+}
+
+.select-box {
+  width: 200px;
+  height: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+
+.separator {
+  margin: 0 30px;
+}
+
+.spinner {
+  width: 3rem;
+  height: 3rem;
+}
+
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 780px;
+}
+
+.stocks-container {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  font-family: "Arial Black", sans-serif;
+}
